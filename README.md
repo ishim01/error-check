@@ -1,4 +1,3 @@
-code, assets, specs, instructions, other files
 # Error Check
 
 ## Description
